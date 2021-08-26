@@ -18,6 +18,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [Akhsay Saini's system design course](https://get.interviewready.io/courses/system-design-interview-prep)
    - [system design github](https://github.com/shashank88/system_design)
    - [arpitt biyani's newsletter](https://arpitbhayani.me/blogs)
+   - [sys deign like twitter ](https://www.youtube.com/watch?v=cODCpXtPHbQ&ab_channel=codeKarle)
+   - [sudo-code by yogita sharma](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
 
 
   #### web performance
