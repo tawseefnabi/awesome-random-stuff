@@ -12,3 +12,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
 
   #### cryptocurrency
    - [learn crypto fundamentals](https://crypto.preethikasireddy.com/)
+
+
+  #### system design
+   - [Akhsay Saini's system design course](https://get.interviewready.io/courses/system-design-interview-prep)
+   - [system design github](https://github.com/shashank88/system_design)
