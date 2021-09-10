@@ -13,6 +13,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
   #### cryptocurrency
    - [learn crypto fundamentals](https://crypto.preethikasireddy.com/)
    - [web3 by nader](https://www.freecodecamp.org/news/what-is-web3/)
+   - [The hitchhiker’s guide to Ethereum](https://www.wslyvh.com/ethereum-guide/)
+   - [learn blockchanin beginners](https://www.dappuniversity.com/articles/learn-blockchain)
 
 
   #### system design
