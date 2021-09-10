@@ -12,7 +12,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
 
   #### cryptocurrency
    - [learn crypto fundamentals](https://crypto.preethikasireddy.com/)
-   - [web3 by @dabit](https://www.freecodecamp.org/news/what-is-web3/)
+   - [web3 by nader](https://www.freecodecamp.org/news/what-is-web3/)
 
 
   #### system design
