@@ -19,6 +19,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [start with basics of crytpo](https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/)
    - [Etheruem programming tutrorial](https://www.youtube.com/watch?v=xWFba_9QYmc&ab_channel=DappUniversity)
    - [cohort-based-courses](https://github.com/ethereum-cdap/cohort-one/blob/master/program-details.md)
+   - [developer DAO](https://twitter.com/developer_dao)
 
 
   #### system design
