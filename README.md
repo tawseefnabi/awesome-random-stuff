@@ -21,6 +21,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [Etheruem programming tutrorial](https://www.youtube.com/watch?v=xWFba_9QYmc&ab_channel=DappUniversity)
    - [cohort-based-courses](https://github.com/ethereum-cdap/cohort-one/blob/master/program-details.md)
    - [developer DAO](https://twitter.com/developer_dao)
+    #### people to follow for crytpo
+     - [austingriffith](https://twitter.com/austingriffith)
 
 
   #### system design
