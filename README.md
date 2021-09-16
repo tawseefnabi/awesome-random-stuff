@@ -22,6 +22,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [cohort-based-courses](https://github.com/ethereum-cdap/cohort-one/blob/master/program-details.md)
    - [developer DAO](https://twitter.com/developer_dao)
    - [etheruem dev tutorials](https://ethereum.org/en/developers/tutorials/)
+   - [bootcamp](https://chain.link/bootcamp/bootcamp-2021-on-demand)
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
 
