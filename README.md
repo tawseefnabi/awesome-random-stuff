@@ -25,6 +25,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [bootcamp](https://chain.link/bootcamp/bootcamp-2021-on-demand)
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
+     - [wslyvh](https://twitter.com/wslyvh)
 
 
   #### system design
