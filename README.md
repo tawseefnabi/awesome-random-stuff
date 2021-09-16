@@ -23,6 +23,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [developer DAO](https://twitter.com/developer_dao)
    - [etheruem dev tutorials](https://ethereum.org/en/developers/tutorials/)
    - [bootcamp](https://chain.link/bootcamp/bootcamp-2021-on-demand)
+   - [ETH tutorials](https://ethereum.org/en/developers/tutorials/)
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
      - [wslyvh](https://twitter.com/wslyvh)
