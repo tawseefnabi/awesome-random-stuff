@@ -27,6 +27,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
      - [wslyvh](https://twitter.com/wslyvh)
+     - [nader](https://twitter.com/dabit3)
+     - [Preethi Kasireddy](https://twitter.com/iam_preethi)
 
 
   #### system design
