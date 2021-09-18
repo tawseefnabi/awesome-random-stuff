@@ -24,6 +24,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [etheruem dev tutorials](https://ethereum.org/en/developers/tutorials/)
    - [bootcamp](https://chain.link/bootcamp/bootcamp-2021-on-demand)
    - [ETH tutorials](https://ethereum.org/en/developers/tutorials/)
+   - [buildspace](https://app.buildspace.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b/lessons/LEd98170b1-09f3-4a89-af5f-f54c9788c955?)
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
      - [wslyvh](https://twitter.com/wslyvh)
