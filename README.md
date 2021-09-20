@@ -31,6 +31,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
      - [nader](https://twitter.com/dabit3)
      - [Preethi Kasireddy](https://twitter.com/iam_preethi)
      - [Farza Tv](https://twitter.com/FarzaTV)
+     - [Vitto](https://twitter.com/VittoStack)
 
 
   #### system design
