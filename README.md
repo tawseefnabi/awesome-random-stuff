@@ -30,6 +30,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
      - [wslyvh](https://twitter.com/wslyvh)
      - [nader](https://twitter.com/dabit3)
      - [Preethi Kasireddy](https://twitter.com/iam_preethi)
+     - [Farza Tv](https://twitter.com/FarzaTV)
 
 
   #### system design
