@@ -42,7 +42,8 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [arpitt biyani's newsletter](https://arpitbhayani.me/blogs)
    - [sys deign like twitter ](https://www.youtube.com/watch?v=cODCpXtPHbQ&ab_channel=codeKarle)
    - [sudo-code by yogita sharma](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
-
+ #### crypto jobs
+ - [mr-stingy](https://www.mr-stingy.com/get-job-crypto-not-suitable/?utm_content=bufferbb7e9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
   #### web performance
   [Web Performance workshops](https://web-perf.dev/)
