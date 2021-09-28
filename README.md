@@ -28,6 +28,9 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [ethereum-crypto-web3 by nader](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
    - [create-dao](https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl)
    - [kernel](http://kernel.community/en/learn/)
+     #### videos
+     - [soldity by austin griffith](https://solidity-by-example.org/)
+       
    - #### people to follow for crytpo
      - [austingriffith](https://twitter.com/austingriffith)
      - [wslyvh](https://twitter.com/wslyvh)
