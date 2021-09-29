@@ -29,6 +29,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [create-dao](https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl)
    - [kernel](http://kernel.community/en/learn/)
    - [Ethereum Dev Speed Run by @austingriffith](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
+   - [wthisweb3](https://camiinthisthang.hashnode.dev/wthisweb3)
      #### videos
      - [soldity by austin griffith](https://solidity-by-example.org/)
        
