@@ -30,6 +30,7 @@ Collection of interesting &amp; awesome random stuff I find on the World Wide We
    - [kernel](http://kernel.community/en/learn/)
    - [Ethereum Dev Speed Run by @austingriffith](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
    - [wthisweb3](https://camiinthisthang.hashnode.dev/wthisweb3)
+   - [ludu](https://www.ludu.co/course/ethereum)
      #### videos
      - [soldity by austin griffith](https://solidity-by-example.org/)
        
